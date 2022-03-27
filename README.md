@@ -1,2 +1,2 @@
 # GY-GeoJSON
-GeoJSON versions of UK Boundary Guyana
+GeoJSON versions of Guyana Boundary Data
